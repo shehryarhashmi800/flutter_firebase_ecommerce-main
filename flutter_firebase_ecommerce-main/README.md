@@ -1,7 +1,5 @@
 # A Completed Functional Flutter App - Peachy Ecommerce  (BLoC + Firebase + Clean Architecture)
 
-![Banner](https://github.com/haonguyenuet/ecommerce-flutter-firebase/blob/main/screenshots/banner.png)
-
 ## Folder Structure
 Here is the core folder structure which flutter provides.
 
@@ -49,8 +47,6 @@ lib/
 * Change app language
 * More...
 
-## Some Screens:
-![Banner](https://github.com/haonguyenuet/ecommerce-flutter-firebase/blob/main/screenshots/screens.png)
 
 ## Before run project, execute commands:
 - `flutter clean`
